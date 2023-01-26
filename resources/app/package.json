@@ -1,0 +1,14 @@
+{
+  "name": "Recon master",
+  "version": "1.0.0",
+  "description": "A simple Electron application for automating recon tools",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^9.4.4"
+  },
+  "author": "Ashik",
+  "license": "MIT"
+}
